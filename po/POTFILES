@@ -1,0 +1,7 @@
+data/org.scroker.ValaGtkTest.desktop.in
+data/org.scroker.ValaGtkTest.appdata.xml.in
+data/org.scroker.ValaGtkTest.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

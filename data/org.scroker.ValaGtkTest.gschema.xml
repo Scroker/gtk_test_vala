@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gtk_test_vala">
+	<schema id="org.scroker.ValaGtkTest" path="/org/scroker/ValaGtkTest/">
+	</schema>
+</schemalist>
